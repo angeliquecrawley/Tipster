@@ -7,7 +7,7 @@ IOS Tip Calculator
 
 Submitted by: **noodlesny**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -28,10 +28,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/noodlesny/Tipster/blob/master/TipsterDemo1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
 ## Notes
 
-I initially could not get the keyboard to show, and also had issues with connecting the functionality because I hadn't realized that I connecting the functions to the wrong labels.
+I initially could not get the keyboard to show.
