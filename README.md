@@ -13,7 +13,7 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is complete:
 
-* [X] User can enter a bill amoun
+* [X] User can enter a bill amount
 * [X] Choose a tip percentage
 * [X] See the tip
 * [X] See total values
