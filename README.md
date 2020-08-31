@@ -5,7 +5,7 @@ IOS Tip Calculator
 
 **Tipster** is a tip calculator application for iOS.
 
-Submitted by: **noodlesny**
+Submitted by: **angeliquecrawley**
 
 Time spent: **4** hours spent in total
 
